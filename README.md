@@ -37,10 +37,10 @@
 <img src="https://img.shields.io/badge/Arduino(or compatible board)-lightgrey?style=flat&logo=Arduino&logoColor=white"/>
  </div>
 <br />
-i told you so, LOTS to do... LOTS to enjoy...
+I told you so, LOTS to do... LOTS to enjoy...
 
 ---
-<img src="https://img.shields.io/badge/Kyunghee University-grey?style=flat-square"/>
+<img src="https://img.shields.io/badge/Kyunghee University-A40F16?style=flat-square"/>
 
 + Currently undergraduate student at Kyunghee University.
 + Expected to graduate on Feb. 2022.

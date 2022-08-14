@@ -43,11 +43,11 @@ I told you so, LOTS to do... LOTS to enjoy...
 <img src="https://img.shields.io/badge/Kyunghee University-A40F16?style=flat-square"/>
 
 + Currently undergraduate student at Kyunghee University.
-+ Expected to graduate on Feb. 2022.
++ Expected to graduate on Aug. 2022.
 
 <img src="https://img.shields.io/badge/42Seoul-grey?style=flat-square&logo=42&logoColor=white"/>
 
-+ Currently Cadet(Learner)
++ 42 Seoul Alumni
 <!--
 **effectivemadness/effectivemadness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

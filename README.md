@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=effectivemadness&fontSize=50)
 
 
- <br />
+<!--  <br />
 
 > "하고 싶은 것도 많고, 신기한 것도 많구나..." - effectivemadness (me)
 
- <br />
+ <br /> -->
 
 <h3 align='center'> I'm interested in...🤔  </h3>
 <div align='center'>
@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/Arduino(or compatible board)-lightgrey?style=flat&logo=Arduino&logoColor=white"/>
  </div>
 <br />
-I told you so, LOTS to do... LOTS to enjoy...
+<!-- I told you so, LOTS to do... LOTS to enjoy... -->
 
 ---
 <img src="https://img.shields.io/badge/Kyunghee University-A40F16?style=flat-square"/>
